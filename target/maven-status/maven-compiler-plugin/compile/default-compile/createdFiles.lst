@@ -1,0 +1,12 @@
+com\mercado\ws\entity\dto\PedidoDTO.class
+com\mercado\wspedidos\exceptions\ErroEnviarMensagemFilaException.class
+com\mercado\ws\entity\Pedido.class
+com\mercado\wspedidos\service\PedidoService.class
+com\mercado\wspedidos\service\RabbitmqService.class
+com\mercado\wspedidos\connections\RabbitMQConection.class
+com\mercado\ws\entity\dto\AtualizarStatusPedidoDTO.class
+com\mercado\ws\entity\enums\StatusPedido.class
+com\mercado\wspedidos\repository\PedidoRepository.class
+com\mercado\wspedidos\constants\FilaConstants.class
+com\mercado\wspedidos\controller\PedidosController.class
+com\mercado\wspedidos\WspedidosApplication.class

@@ -1,0 +1,2 @@
+# wspedidos
+ rabbitmq

@@ -1,0 +1,12 @@
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\controller\PedidosController.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\ws\entity\Pedido.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\repository\PedidoRepository.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\service\PedidoService.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\connections\RabbitMQConection.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\service\RabbitmqService.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\ws\entity\dto\PedidoDTO.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\WspedidosApplication.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\ws\entity\enums\StatusPedido.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\exceptions\ErroEnviarMensagemFilaException.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\ws\entity\dto\AtualizarStatusPedidoDTO.java
+D:\workspace-mercado\wspedidos\src\main\java\com\mercado\wspedidos\constants\FilaConstants.java
